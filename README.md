@@ -1,10 +1,9 @@
 # Python Basics
 
-Basit Python örnekleri ve temel kavramları öğrenmek için hazırlanmış bir koleksiyon.
+Basit Python örnekleri ve temel kavramlar.
 
 ## İçerik
 
-Bu repository'de Python'ın temel konuları hakkında basit ve pratik örnekler bulunmaktadır:
 
 - **01_hello.py** - Ilk programımız: Ekrana metin yazdırma
 - **02_math.py** - Temel matematiksel işlemler
@@ -35,19 +34,4 @@ python 02_math.py
 ## Gereksinimler
 
 - Python 3.x
-
-## Amaç
-
-Bu repository, Python öğrenmeye yeni başlayanlar için temel konseptleri anlamalarına yardımcı olmak amacıyla oluşturulmuştur. Her örnek, basit ve anlaşılır şekilde yazılmıştır.
-
-## Katkı
-
-Hata bulursanız veya iyileştirme önerileriniz varsa lütfen issue açın veya pull request gönderin.
-
-## Lisans
-
-Bu proje GPL2 (GNU General Public License v2.0) lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakınız.
-
----
-
-**Başlangıç Seviyesi | Python Öğrenme Kaynağı**
+ 
